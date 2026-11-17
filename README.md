@@ -1,0 +1,3 @@
+# Curso Master Data Analisis
+
+Este curso está diseñado para proporcionar a los estudiantes una comprensión profunda de los conceptos y técnicas de análisis de datos maestros. A lo largo del curso, los participantes aprenderán a manejar grandes volúmenes de datos, aplicar métodos estadísticos y utilizar herramientas de visualización para extraer información valiosa que pueda influir en la toma de decisiones empresariales. 
